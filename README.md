@@ -96,4 +96,3 @@ The analysis is performed on transactional sales data and customer dimension dat
 
 ---
 
-## Repository Structure
